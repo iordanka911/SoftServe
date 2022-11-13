@@ -1,0 +1,12 @@
+.container1{
+    color: green;
+    background-image: url(./nebe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container2{
+    background-image: url(./rainbow-love-heart-background-red-wood-60045149.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
